@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate frontend developer and cybersecurity from Mexico</h3>
+<h3 align="center">Student of Systems Engineering. Mexican web developer and cybersecurity enthusiast</h3>
 
 
 * 😄 Pronouns: **He / Him**
